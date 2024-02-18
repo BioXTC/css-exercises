@@ -1,21 +1,20 @@
-.body__para-odd-1,
-.body__para-odd-2,
-.body__para-odd-3 {
+.body__para-odd {
     font-family: "Verdana", "DejaVu Sans", sans-serif;
-    background-color: lightpink;
+    background-color: #ffb6c1;
 }
 
-.body__para-odd-2 {
+.font-24 {
     font-size: 24px;
 }
 
+
 #div1 {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #div2 {
-    background-color: lightgreen;
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: bold;
 }
